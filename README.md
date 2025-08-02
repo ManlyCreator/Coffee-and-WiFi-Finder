@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Home Page:</h2>
-<img src="./images/home.jpg" alt="Coffe & WiFi Home Page>
+<img src="images/home.jpg" alt="Coffe & WiFi Home Page>
 
 <h2>Data:</h2>
-<img src="./images/tables.jpg" alt="Coffe & WiFi Table Data>
+<img src="images/tables.jpg" alt="Coffe & WiFi Table Data>
