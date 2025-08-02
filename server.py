@@ -15,6 +15,9 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
 Bootstrap5(app)
 
+# TODO: Add a preview of the website to the README
+# TODO: Add a preview of the Document Summarizer to its README
+
 
 class CafeForm(FlaskForm):
     cafe = StringField('Cafe name', validators=[DataRequired()])
