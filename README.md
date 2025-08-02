@@ -8,7 +8,7 @@ This was a simple web-app I made as a challenge for ***Angela Yu's 100 Days of C
 - Time formatting
 
 ## Home Page:
-![image_alt](https://github.com/ManlyCreator/Coffee-and-WiFi-Finder/blob/main/images/home.jpg?raw=true)
+![image_alt](./images/home.jpg)
 
 ## Data Preview:
-![image_alt](https://github.com/ManlyCreator/Coffee-and-WiFi-Finder/blob/main/images/tables.jpg?raw=true)
+![image_alt](./images/tables.jpg)
